@@ -1,1 +1,1 @@
-# job_application_form
+This repository contains a simple web application built with Flask to create and submit job applications. Job applicants can fill out the form with their details and submit their application. The submitted data is stored in a database for later review.
