@@ -1,0 +1,4 @@
+Python 3.x
+Flask
+Flask-SQLAlchemy
+Flask-Mail
